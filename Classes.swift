@@ -154,7 +154,7 @@ class Perfil {
         }
     }
     
-    /**
+    /** TO DO - FALTA VERIFICAR SE VOU INCLUIR OU NAO ESTA FUNCAO 
     // Método para buscar por título no catálogo
     func buscarPorTitulo(_ titulo: String, catalogo: Catalogo) -> [Midia] {
         var resultados: [Midia] = []
@@ -365,6 +365,8 @@ class Catalogo {
     }
 }
 
+
+// ##############################################################################################################################
 // Testes de instanciacoes
 
 let catalogo = Catalogo()
