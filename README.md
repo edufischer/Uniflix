@@ -13,10 +13,10 @@
 ✅ Definir a estrutura básica do projeto no Xcode.  
 
 # 2. Design da Interface do Usuário (UI)  
-❌ Criar telas de login, menu, home e outras conforme necessário.
-✅ Adicionar elementos de interface do usuário (botões, campos de texto, imagens, etc.).
-✅ Personalizar a aparência usando SwiftUI.
-❌ Implementar a navegação entre telas.
+❌ Criar telas de login, menu, home e outras conforme necessário.  
+✅ Adicionar elementos de interface do usuário (botões, campos de texto, imagens, etc.).  
+✅ Personalizar a aparência usando SwiftUI.  
+❌ Implementar a navegação entre telas.  
 
 # 3. Funcionalidades do Aplicativo  
 
